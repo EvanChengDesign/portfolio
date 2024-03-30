@@ -11,26 +11,26 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "SotA: Secret of the Ancients",
+        "startDate": "2024",
+        "description": "A 2D dungeon crawler/arcade game similar to Tower of Drauga in which the user must navigate a maze to find a key which will open a door to the next floor. This project utilized a combination of HTML, CSS, and JavaScript to implement many features to enhance user game play experience. Some of these features included JS functions to autogenerate barriers, functions to control collisions with objects, enemies, and doors, and a function that tracked player score across levels.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/SotaCover.png",
+          "images/SotaGameArea.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
