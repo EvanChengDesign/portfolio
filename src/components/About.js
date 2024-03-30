@@ -26,9 +26,9 @@ class About extends Component {
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
                   <img
-                    height="250px"
-                    src={profilepic}
-                    alt="Avatar placeholder"
+                    height="200px"
+                    src={ profilepic } 
+                    alt="profile placeholder"
                   />
                   <Icon
                     icon={angularIcon}
@@ -77,7 +77,7 @@ class About extends Component {
                     }}
                   >
                     <br />
-                    <span className="wave">{hello} :) </span>
+                    <span className="wave">{hello} </span>
                     <br />
                     <br />
                     {about}

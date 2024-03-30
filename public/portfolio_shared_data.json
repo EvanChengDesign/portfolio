@@ -1,20 +1,24 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "EVAN CHENG",
+      "titles": [ "SOFTWARE DEVELOPER + CREATIVE DESIGNER + PHOTOGRAPHER" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/EvanChengDesign",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/evanchengcreative/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+
+       "image": "smallProfile.png"
+        
+      
+    
     },
     "skills": {
       "icons": [
