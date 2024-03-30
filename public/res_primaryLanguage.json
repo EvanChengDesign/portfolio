@@ -36,10 +36,10 @@
       },
       {
         "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "startDate": "2015",
+        "description": "Link to photography projects",
         "images": [
-          "images/portfolio/photography/p1.jpg",
+          "images/por/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
         "url": "https://github.com",
