@@ -39,13 +39,13 @@
         "startDate": "2015",
         "description": "Link to photography projects",
         "images": [
-          "images/por/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/Photography.jpg",
+          "images/Photography.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://evanchengdesign.myportfolio.com/photography-content",
         "technologies": [
           {
-            "class": "devicon-react-original",
+            "class": "devicon-adobe-original",
             "name": "React"
           },
           {

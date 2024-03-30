@@ -10,10 +10,8 @@ Estimate of time needed to complete: 1 Hour
 
 Start time: 9:45pm EST
 
-Finish time:  EST
+Finish time:  12:19am EST
 
-Actual time needed to complete: 
+Actual time needed to complete: 2 hours 34 minutes
 
 ---
-
-
